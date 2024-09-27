@@ -1,6 +1,6 @@
 # 🐤 Twimba
 
-Live: https://twimba-js-scrimba.netlify.app/
+**Live: https://twimba-js-scrimba.netlify.app/**
 
 ***A website made as a clone of X (formerly Twitter) with minimum functionality and features. Made for practcing CSS abd UI/UX.***
 
