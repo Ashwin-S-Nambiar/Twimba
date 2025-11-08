@@ -1,4 +1,4 @@
-# Twimba 🐤
+# Twimba
 
 <div align="center">
   
@@ -19,13 +19,13 @@
 
 **Twimba is a minimal clone of X (formerly Twitter) built to practice CSS and UI/UX design. It replicates core Twitter functionalities with a focus on clean design and straightforward interactivity.**
 
-## ⚒️ Built With
+## Built With
 
 - **HTML5:** For semantic structure and accessibility.
 - **CSS3:** For modern, responsive styling.
 - **JavaScript:** To add interactive features.
 
-## 📷 Screenshots
+## Screenshots
 
 <div align="center">
 
@@ -45,7 +45,7 @@ To run Twimba locally:
       - Open the index.html file in your preferred browser.
 
 
-## 🤝 Contributing
+## Contributing
 Contributions are welcome! If you have suggestions or improvements, please:
 
 1. **Fork the repository.**
@@ -67,7 +67,7 @@ Contributions are welcome! If you have suggestions or improvements, please:
 
 4. **Open a pull request**.
 
-## 👤 Author
+## Author
 
 ### Ashwin S Nambiar
 - Portfolio: [ashwin.co.in](https://ashwin.co.in)
